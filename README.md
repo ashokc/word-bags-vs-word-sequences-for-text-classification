@@ -2,7 +2,7 @@
   
 This is the source code to go along with the blog article
 
-[Word Bags vs Word Sequences for Text Classification](http://xplordat.com/2018/12/14/want-to-cluster-text-try-custom-word-embeddings/)
+[Word Bags vs Word Sequences for Text Classification](http://xplordat.com/2019/01/13/word-bags-vs-word-sequences-for-text-classification/)
 
 The blog illustrates that sequence respecting approaches have an edge over bag-of-words implementations when the said sequence is material to classification. Long Short Term Memory (LSTM) neural nets with words sequences are evaluated against Naive Bayes with tf-idf vectors on a synthetic text corpus for classification effectiveness.
 
